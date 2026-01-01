@@ -1,0 +1,362 @@
+{
+  "main": {
+    "id": "21c5723ccc730253",
+    "type": "split",
+    "children": [
+      {
+        "id": "65b5e7e7f64fadb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bac30cdfc94e68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004 COURSES/01 BUPT/4 操作系统/王道操作系统/OS 期末复习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OS 期末复习"
+            }
+          },
+          {
+            "id": "6766ebc9b62e6e94",
+            "type": "leaf",
+            "state": {
+              "type": "epub",
+              "state": {
+                "file": "006 BOOKS/03 平常阅读/小说阅读/钢铁是怎样炼成的(全文无删减，根据俄罗斯ACT出版社2011年权威版本翻译)(果麦经典) (尼古拉·奥斯特洛夫斯基) (Z-Library).epub"
+              },
+              "icon": "doc-epub",
+              "title": "钢铁是怎样炼成的(全文无删减，根据俄罗斯ACT出版社2011年权威版本翻译)(果麦经典) (尼古拉·奥斯特洛夫斯基) (Z-Library)"
+            }
+          },
+          {
+            "id": "26a3801b62852f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004 COURSES/01 BUPT/4 操作系统/王道操作系统/王道操作系统笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "王道操作系统笔记"
+            }
+          },
+          {
+            "id": "b8e419376e295fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 STUDY/01 SELF_LEARNING/SELF-LEARNING RECORD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SELF-LEARNING RECORD"
+            }
+          },
+          {
+            "id": "4f37ea21aa354b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 STUDY/05 Projects/C/大三上/熊桑C语言项目.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "熊桑C语言项目"
+            }
+          },
+          {
+            "id": "0b39d2e3017e4405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 STUDY/01 SELF_LEARNING/BUPT Python/GUIDE For BUPT Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GUIDE For BUPT Python"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b20e849d3d1c5b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f98763845d21303a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40efe8875aa0439c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d3e6cb955a8798b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7763ece6adf5c818",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "040c44037a362fcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d5cd3fa25f4d54",
+        "type": "tabs",
+        "dimension": 52.5,
+        "children": [
+          {
+            "id": "a01c9f39abf66b55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming Languages/Python/JackFrued/Python_Day_1-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Python_Day_1-20 的反向链接列表"
+            }
+          },
+          {
+            "id": "789b6d8bbc385629",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "006 Courses/01 ComputerScience/0 计算机组成原理/湖科大网课Notes/主存各类线之间的数量计算.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "主存各类线之间的数量计算 的出链列表"
+            }
+          },
+          {
+            "id": "8201b850745accc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fb55a6880e1c2be4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "833255fa4c4051ac",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "9a562f586893e51e",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "421ca7e8b48ffedd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "004 COURSES/01 BUPT/4 操作系统/王道操作系统/王道操作系统笔记.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "王道操作系统笔记 的大纲"
+            }
+          },
+          {
+            "id": "e6cac63ca6fae395",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "222016afac49d5a2",
+        "type": "tabs",
+        "dimension": 47.5,
+        "children": [
+          {
+            "id": "2b6ad01b97f0a99b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "009 RECORD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "009 RECORD"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-kanban:创建新看板": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "26a3801b62852f1c",
+  "lastOpenFiles": [
+    "004 COURSES/01 BUPT/4 操作系统/王道操作系统/OS 期末复习.md",
+    "009 RECORD.md",
+    "001 STUDY/05 Projects/C/大三上/熊桑C语言项目.md",
+    "001 STUDY/01 SELF_LEARNING/SELF-LEARNING RECORD.md",
+    "004 COURSES/01 BUPT/4 操作系统/王道操作系统/王道操作系统笔记.md",
+    "001 STUDY/01 SELF_LEARNING/PKU Python/GUIDE For PKU DS in Python.md",
+    "006 BOOKS/03 平常阅读/小说阅读/钢铁是怎样炼成的(全文无删减，根据俄罗斯ACT出版社2011年权威版本翻译)(果麦经典) (尼古拉·奥斯特洛夫斯基) (Z-Library).epub",
+    "001 STUDY/01 SELF_LEARNING/BUPT Python/GUIDE For BUPT Python.md",
+    "003 ATTACHMENTS/04 Codes/SELF_LEARNING/BUPT Python",
+    "003 ATTACHMENTS/04 Codes/SELF_LEARNING/BUPT PYTHON",
+    "003 ATTACHMENTS/04 Codes/SELF_LEARNING/新建文件夹",
+    "003 ATTACHMENTS/04 Codes/SELF_LEARNING",
+    "003 ATTACHMENTS/04 Codes/新建文件夹",
+    "003 ATTACHMENTS/04 Codes",
+    "003 ATTACHMENTS/新建文件夹",
+    "006 BOOKS/04 近期阅读/菲茨杰拉德作品全集(套装共10册) ([美]F.S.菲茨杰拉德 [[美]F.S.菲茨杰拉德]) (Z-Library).epub",
+    "001 STUDY/01 SELF_LEARNING/BUPT Python",
+    "006 BOOKS/03 平常阅读/小说阅读/村上春树/钢铁.md",
+    "006 BOOKS/03 平常阅读/镜子中的人/关于我内心的反复横跳.md",
+    "006 BOOKS/平常阅读/小说阅读/村上春树/钢铁.md",
+    "006 BOOKS/平常阅读/镜子中的人/关于我内心的反复横跳.md",
+    "004 COURSES/01 BUPT/4 操作系统/王道操作系统/未命名 3.md",
+    "004 COURSES/01 BUPT/4 操作系统/王道操作系统/未命名 2.md",
+    "004 COURSES/01 BUPT/4 操作系统/王道操作系统/未命名 1.md",
+    "004 COURSES/01 BUPT/4 操作系统/王道操作系统/未命名.md",
+    "Quick Access.md",
+    "Learning Process.md",
+    "001 STUDY/01 SELF_LEARNING/CS61A/Learning Guidance.md",
+    "004 COURSES/01 BUPT/8 C++/郝斌C语言/郝斌C语言.md",
+    "001 STUDY/01 SELF_LEARNING/CS61A/Note-01.md",
+    "007 PROCESS MANAGE/2025-2026学年大三上/Python 资源收集.md",
+    "010 IDEAS.md",
+    "008 INFORMATION/实习/信息差整理.md",
+    "007 PROCESS MANAGE/2025-2026学年大三上/蓝桥杯.md",
+    "007 PROCESS MANAGE/2025-2026学年大三上/算法设计与分析课程.md",
+    "007 PROCESS MANAGE/2025-2026学年大三上/Python 牛客 1.md",
+    "003 ATTACHMENTS/01 imgs/大三上学期/算法期末复习-84.png",
+    "003 ATTACHMENTS/01 imgs/大三上学期/算法期末复习-83.png",
+    "003 ATTACHMENTS/01 imgs/大三上学期/算法期末复习-82.png",
+    "003 ATTACHMENTS/01 imgs/大三上学期/算法期末复习-81.png",
+    "003 ATTACHMENTS/01 imgs/大三上学期/算法期末复习-80.png",
+    "003 ATTACHMENTS/01 imgs/大三上学期/算法期末复习-79.png",
+    "003 ATTACHMENTS/01 imgs/大三上学期/算法期末复习-78.png",
+    "003 ATTACHMENTS/01 imgs/大三上学期/算法期末复习-77.png",
+    "003 ATTACHMENTS/01 imgs/大三上学期/算法期末复习-76.png",
+    "003 ATTACHMENTS/01 imgs/大三上学期/算法期末复习-75.png",
+    "SideBar/Untitled.canvas"
+  ]
+}

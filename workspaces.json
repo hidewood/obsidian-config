@@ -1,0 +1,247 @@
+{
+  "workspaces": {
+    "Quick Access + 收件箱": {
+      "main": {
+        "id": "21c5723ccc730253",
+        "type": "split",
+        "children": [
+          {
+            "id": "166471fab6729354",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7f6e4aa4492bba08",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "收件箱.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "收件箱"
+                }
+              },
+              {
+                "id": "9cd2f8bed46bb0ad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dataview.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "dataview"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b20e849d3d1c5b1",
+        "type": "split",
+        "children": [
+          {
+            "id": "f98763845d21303a",
+            "type": "tabs",
+            "dimension": 68.04733727810651,
+            "children": [
+              {
+                "id": "40efe8875aa0439c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "d3e6cb955a8798b5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "7763ece6adf5c818",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          },
+          {
+            "id": "57068b2583c90cf1",
+            "type": "tabs",
+            "dimension": 31.952662721893493,
+            "children": [
+              {
+                "id": "c833ea89ab925cea",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Quick Access.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Quick Access"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 247.5
+      },
+      "right": {
+        "id": "040c44037a362fcf",
+        "type": "split",
+        "children": [
+          {
+            "id": "98d5cd3fa25f4d54",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a01c9f39abf66b55",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Programming Languages/Python/JackFrued/Python_Day_1-20.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Python_Day_1-20 的反向链接列表"
+                }
+              },
+              {
+                "id": "789b6d8bbc385629",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "收件箱.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "收件箱 的出链列表"
+                }
+              },
+              {
+                "id": "8201b850745accc2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "421ca7e8b48ffedd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "收件箱.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "收件箱 的大纲"
+                }
+              },
+              {
+                "id": "fb55a6880e1c2be4",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "222016afac49d5a2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b6ad01b97f0a99b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "收件箱.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "收件箱"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-kanban:创建新看板": false,
+          "pomodoro-timer:Toggle timer panel": false
+        }
+      },
+      "active": "7f6e4aa4492bba08",
+      "mtime": "2025-07-23T15:38:48+08:00"
+    }
+  },
+  "active": "Quick Access + 收件箱"
+}

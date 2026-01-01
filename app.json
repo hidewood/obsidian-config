@@ -1,0 +1,14 @@
+{
+  "attachmentFolderPath": "004 Attachments/01 imgs/大三上学期",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "spellcheck": false,
+  "useTab": true
+}

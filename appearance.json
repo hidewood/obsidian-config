@@ -1,0 +1,10 @@
+{
+  "theme": "moonstone",
+  "accentColor": "",
+  "cssTheme": "Border",
+  "baseFontSize": 14,
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono"
+}
