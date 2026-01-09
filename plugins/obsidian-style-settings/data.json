@@ -50,5 +50,19 @@
   "Appearance-light@@toggle-track-hovered-shadow-light": "0px 0px 0px 1px #000000",
   "Editor@@codeblock-style-select": "codeblock-style-dracula",
   "Components@@colorful-folder": true,
-  "Components@@folder-font-bold": true
+  "Components@@folder-font-bold": true,
+  "Appearance-light@@mod-root-split-background-select-light": "mod-root-split-background-customize-light",
+  "Appearance-light@@background-mod-root-split-light": "#F2EFE9",
+  "Appearance-light@@mod-left-split-background-select-light": "mod-left-split-background-transparent-light",
+  "Appearance-light@@background-mod-left-split-light": "#E8E2D6",
+  "Appearance-light@@mod-right-split-background-select-light": "mod-right-split-background-transparent-light",
+  "Editor@@editor-grid-background-pattren": false,
+  "Editor@@border-focus-mode": false,
+  "Editor@@link-color@@light": "#006B75",
+  "Editor@@link-color-hover@@light": "#4B5332",
+  "Editor@@link-external-color@@light": "#005F6B",
+  "Editor@@link-unresolved-color@@light": "#5188EC",
+  "Editor@@text-highlight-bg@@light": "#C1E9E0",
+  "Editor@@blockquote-background-light": "#EBE5DA",
+  "Editor@@img-center-align": true
 }

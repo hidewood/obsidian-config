@@ -2,9 +2,9 @@
   "theme": "moonstone",
   "accentColor": "",
   "cssTheme": "Border",
-  "baseFontSize": 14,
+  "baseFontSize": 16,
   "monospaceFontFamily": "JetBrains Mono",
   "baseFontSizeAction": true,
   "interfaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "JetBrains Mono"
+  "textFontFamily": "汉仪空山楷"
 }
