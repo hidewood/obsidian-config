@@ -4,63 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "a57e87c36bbacc25",
+        "id": "3531e91f990c1294",
         "type": "tabs",
         "children": [
           {
-            "id": "ef95989ac07f7fd3",
+            "id": "0d19b6593f19a5e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "001 STUDY/01 自学/SELF-LEARNING RECORD.md",
-                "mode": "source",
-                "source": false
+                "file": "100艾力克斯/Notes/青箭の第一阶段任务看板.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "SELF-LEARNING RECORD"
+              "icon": "lucide-trello",
+              "title": "青箭の第一阶段任务看板"
             }
           },
           {
-            "id": "415efbd0a534f682",
+            "id": "f379d986e1038f2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 STUDY/01 自学/BUPT Python/GUIDE For BUPT Python.md",
+                "file": "100艾力克斯/Notes/Git日常使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GUIDE For BUPT Python"
-            }
-          },
-          {
-            "id": "d926e499dd15f64e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 STUDY/07 学习心得/关于笔记/如何记笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "如何记笔记"
-            }
-          },
-          {
-            "id": "14cda3988894ab38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 STUDY/04 一些基本工具/Obsidian/Obsidian配置项设置.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian配置项设置"
+              "title": "Git日常使用"
             }
           }
         ],
@@ -76,6 +64,7 @@
       {
         "id": "f98763845d21303a",
         "type": "tabs",
+        "dimension": 48.95688456189152,
         "children": [
           {
             "id": "40efe8875aa0439c",
@@ -118,11 +107,50 @@
             }
           }
         ]
+      },
+      {
+        "id": "3a4a9597a8aee9ea",
+        "type": "tabs",
+        "dimension": 51.04311543810849,
+        "children": [
+          {
+            "id": "44d2e5b17ed8c61b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500附件/workspace/随手记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "随手记"
+            }
+          },
+          {
+            "id": "33e18a5bf1f88716",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "500附件/workspace/学习看板.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "table",
+                  "list-collapse": [
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "学习看板"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 217.5
   },
   "right": {
     "id": "040c44037a362fcf",
@@ -131,6 +159,7 @@
       {
         "id": "98d5cd3fa25f4d54",
         "type": "tabs",
+        "dimension": 70.65368567454799,
         "children": [
           {
             "id": "a01c9f39abf66b55",
@@ -166,6 +195,21 @@
             }
           },
           {
+            "id": "421ca7e8b48ffedd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100艾力克斯/Notes/Git日常使用.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Git日常使用 的大纲"
+            }
+          },
+          {
             "id": "8201b850745accc2",
             "type": "leaf",
             "state": {
@@ -178,16 +222,6 @@
               },
               "icon": "lucide-tags",
               "title": "标签"
-            }
-          },
-          {
-            "id": "fb55a6880e1c2be4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
             }
           },
           {
@@ -211,21 +245,6 @@
             }
           },
           {
-            "id": "421ca7e8b48ffedd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "001 STUDY/01 自学/BUPT Python/GUIDE For BUPT Python.md",
-                "followCursor": true,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "GUIDE For BUPT Python 的大纲"
-            }
-          },
-          {
             "id": "e6cac63ca6fae395",
             "type": "leaf",
             "state": {
@@ -236,49 +255,35 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
-        "id": "638db71e8620a4c6",
+        "id": "9d1f52db36656bc8",
         "type": "tabs",
+        "dimension": 29.346314325452017,
         "children": [
           {
-            "id": "a6b3f4cff0ee9342",
+            "id": "e3413d6e6f0252ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "007 RECORD/2026_1-2026_7 RECORD.md",
+                "file": "500附件/workspace/头像展示.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026_1-2026_7 RECORD"
-            }
-          },
-          {
-            "id": "093decc72b05c3d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 STUDY/01 自学/SELF-LEARNING RECORD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SELF-LEARNING RECORD"
+              "title": "头像展示"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -286,62 +291,64 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
       "obsidian-kanban:创建新看板": false,
       "pomodoro-timer:Toggle timer panel": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "415efbd0a534f682",
+  "active": "f379d986e1038f2c",
   "lastOpenFiles": [
-    "007 RECORD/2026_1-2026_7 RECORD.md",
-    "001 STUDY/01 自学/BUPT Python/GUIDE For BUPT Python.md",
-    "001 STUDY/01 自学/SELF-LEARNING RECORD.md",
-    "001 STUDY/07 学习心得/关于笔记/如何记笔记.md",
-    "001 STUDY/04 一些基本工具/Obsidian/Obsidian配置项设置.md",
-    "003 ATTACH/01 imgs/2026-2027春季学期/Obsidian符号配置.png",
-    "004 Attachments/01 imgs/2026-2027春季学期",
-    "004 Attachments/01 imgs",
-    "004 Attachments",
-    "003 ATTACH/01 imgs/2026-2027春季学期",
-    "002 LIFE/03 碎念/2025-8-19.md",
-    "001 STUDY/04 一些基本工具/Obsidian/未命名.base",
-    "001 STUDY/04 一些基本工具/Obsidian",
-    "001 STUDY/07 学习心得/关于笔记",
-    "001 STUDY/07 学习心得",
-    "009 RECORD/2026_1-2026_7 RECORD.md",
-    "009 RECORD/2025_9-2026_1 RECORD.md",
-    "009 RECORD",
-    "005 COURSES/01 BUPT/4 操作系统/王道操作系统/OS 期末复习.md",
-    "005 COURSES/01 BUPT/4 操作系统/王道操作系统/王道操作系统笔记.md",
-    "005 COURSES/01 BUPT/4 操作系统/王道操作系统/OS期末复习2.md",
-    "004 Attachments/01 imgs/大三上学期/操作系统期末复习-101.png",
-    "004 Attachments/01 imgs/大三上学期/操作系统期末复习-100.png",
-    "004 Attachments/01 imgs/大三上学期/操作系统期末复习-99.png",
-    "004 Attachments/01 imgs/大三上学期/操作系统期末复习-98.png",
-    "004 Attachments/01 imgs/大三上学期/操作系统期末复习-97.png",
-    "004 Attachments/01 imgs/大三上学期/操作系统期末复习-96.png",
-    "004 Attachments/01 imgs/大三上学期/操作系统期末复习-95.png",
-    "004 Attachments/01 imgs/大三上学期/操作系统期末复习-94.png",
-    "004 Attachments/01 imgs/大三上学期/操作系统期末复习-93.png",
-    "006 BOOKS/03 平常阅读/小说阅读/钢铁是怎样炼成的(全文无删减，根据俄罗斯ACT出版社2011年权威版本翻译)(果麦经典) (尼古拉·奥斯特洛夫斯基) (Z-Library).epub",
-    "001 STUDY/05 项目/Basic/GUIDE For Basic Project.md",
-    "001 STUDY/01 自学/PKU Python/GUIDE For PKU DS in Python.md",
-    "001 STUDY/05 Projects/LeetCode.md",
-    "001 STUDY/05 Projects/C/熊桑C语言项目.md",
-    "006 BOOKS/03 平常阅读/小说阅读/村上春树/钢铁.md",
-    "006 BOOKS/03 平常阅读/镜子中的人/关于我内心的反复横跳.md",
-    "006 BOOKS/平常阅读/小说阅读/村上春树/钢铁.md",
-    "006 BOOKS/平常阅读/镜子中的人/关于我内心的反复横跳.md",
-    "005 COURSES/01 BUPT/4 操作系统/王道操作系统/未命名 3.md",
-    "005 COURSES/01 BUPT/4 操作系统/王道操作系统/未命名 2.md",
-    "005 COURSES/01 BUPT/4 操作系统/王道操作系统/未命名 1.md",
-    "005 COURSES/01 BUPT/4 操作系统/王道操作系统/未命名.md",
-    "Quick Access.md",
-    "Learning Process.md",
+    "100艾力克斯/Notes/青箭の第一阶段任务看板.md",
+    "500附件/workspace/学习看板.md",
+    "500附件/workspace/随手记.md",
+    "500附件/workspace/头像展示.md",
+    "100艾力克斯/Notes/C-projects.md",
+    "500附件/workspace",
+    "100艾力克斯/Notes/学在 BUPT✉️.md",
+    "100艾力克斯/Notes/考研🐙.md",
+    "100艾力克斯/Notes/考研经验贴收集.md",
+    "100艾力克斯/Notes/如何打破考研信息差.md",
+    "500附件/records/2026_1-2026_2 RECORD.md",
+    "100艾力克斯/Notes/科研🧪.md",
+    "100艾力克斯/Notes/方法🤔.md",
+    "100艾力克斯/Notes/日常工具统计.md",
+    "100艾力克斯/Notes/学在BUPT-学期整理.md",
+    "100艾力克斯/学习小屋.md",
+    "100艾力克斯/Notes/娱乐😊.md",
+    "100艾力克斯/Notes/技术杂谈.md",
+    "100艾力克斯/Notes/竞赛🥇.md",
+    "100艾力克斯/Notes/工具⚒️.md",
+    "100艾力克斯/Notes/学习规划.md",
+    "100艾力克斯/学习记录.md",
+    "100艾力克斯/Notes/语言📕.md",
+    "100艾力克斯/Notes/工作🐟.md",
+    "100艾力克斯/Notes/科研经验.md",
+    "100艾力克斯/Notes/关于心得.md",
+    "100艾力克斯/Notes/进化电波.md",
+    "500附件/imgs/DouBan/寻羊冒险记_cover.jpg",
+    "500附件/imgs/DouBan/挪威的森林_cover.jpg",
+    "200三味书屋/BOOKS/03 平常阅读/小说阅读/村上春树/挪威的森林 = ノルウェイの森 ([日] 村上春树 著  林少华 译) (Z-Library).epub",
+    "100斯达迪小屋/学习小屋1",
+    "500附件/imgs/DouBan/红楼梦_cover.jpg",
+    "500附件/imgs/DouBan/海边的卡夫卡_cover.jpg",
+    "500附件/imgs/DouBan/哈利·波特_cover.jpg",
+    "500附件/imgs/DouBan",
+    "500附件/imgs/DouBan/追风筝的人_cover.jpg",
+    "500附件/imgs/DouBan/雪国_cover.jpg",
+    "500附件/imgs/DouBan/红星照耀中国_cover.jpg",
+    "500附件/imgs/DouBan/兄弟_cover.jpg",
+    "500附件/imgs/DouBan/活着_cover.jpg",
+    "500附件/templates/Douban",
+    "200三味书屋/书签/book",
+    "200三味书屋/书签",
+    "附件/imgs/DouBan",
+    "附件/imgs",
+    "附件",
+    "001 STUDY/02 竞赛/未命名.canvas",
     "SideBar/Untitled.canvas"
   ]
 }

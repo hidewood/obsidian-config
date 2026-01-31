@@ -1,0 +1,13 @@
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #fff;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    
+    /* 使图片居中的关键代码 */
+    display: block;         /* 将图片转为块级元素 */
+    margin-left: auto;      /* 左外边距自动 */
+    margin-right: auto;     /* 右外边距自动 */
+}

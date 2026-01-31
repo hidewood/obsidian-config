@@ -1,10 +1,15 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "accentColor": "",
-  "cssTheme": "Border",
-  "baseFontSize": 16,
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 15,
   "monospaceFontFamily": "JetBrains Mono",
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "汉仪空山楷"
+  "interfaceFontFamily": "汉仪空山楷",
+  "textFontFamily": "汉仪空山楷",
+  "enabledCssSnippets": [
+    "avatar",
+    "photo"
+  ],
+  "showRibbon": false
 }

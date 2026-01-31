@@ -6,35 +6,37 @@
         "type": "split",
         "children": [
           {
-            "id": "166471fab6729354",
+            "id": "3531e91f990c1294",
             "type": "tabs",
             "children": [
               {
-                "id": "7f6e4aa4492bba08",
+                "id": "0d19b6593f19a5e8",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "kanban",
                   "state": {
-                    "file": "收件箱.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "100艾力克斯/Notes/青箭の第一阶段任务看板.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "收件箱"
-                }
-              },
-              {
-                "id": "9cd2f8bed46bb0ad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "dataview.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "dataview"
+                  "icon": "lucide-trello",
+                  "title": "青箭の第一阶段任务看板"
                 }
               }
             ]
@@ -49,7 +51,7 @@
           {
             "id": "f98763845d21303a",
             "type": "tabs",
-            "dimension": 68.04733727810651,
+            "dimension": 48.95688456189152,
             "children": [
               {
                 "id": "40efe8875aa0439c",
@@ -94,29 +96,48 @@
             ]
           },
           {
-            "id": "57068b2583c90cf1",
+            "id": "3a4a9597a8aee9ea",
             "type": "tabs",
-            "dimension": 31.952662721893493,
+            "dimension": 51.04311543810849,
             "children": [
               {
-                "id": "c833ea89ab925cea",
+                "id": "44d2e5b17ed8c61b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Quick Access.md",
+                    "file": "500附件/workspace/随手记.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Quick Access"
+                  "title": "随手记"
+                }
+              },
+              {
+                "id": "33e18a5bf1f88716",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "500附件/workspace/学习看板.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "table",
+                      "list-collapse": [
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "学习看板"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 247.5
+        "width": 217.5
       },
       "right": {
         "id": "040c44037a362fcf",
@@ -125,6 +146,7 @@
           {
             "id": "98d5cd3fa25f4d54",
             "type": "tabs",
+            "dimension": 70.65368567454799,
             "children": [
               {
                 "id": "a01c9f39abf66b55",
@@ -151,12 +173,27 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "收件箱.md",
+                    "file": "006 Courses/01 ComputerScience/0 计算机组成原理/湖科大网课Notes/主存各类线之间的数量计算.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "收件箱 的出链列表"
+                  "title": "主存各类线之间的数量计算 的出链列表"
+                }
+              },
+              {
+                "id": "421ca7e8b48ffedd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "100艾力克斯/Notes/青箭の第一阶段任务看板.md",
+                    "followCursor": true,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "青箭の第一阶段任务看板 的大纲"
                 }
               },
               {
@@ -175,56 +212,62 @@
                 }
               },
               {
-                "id": "421ca7e8b48ffedd",
+                "id": "833255fa4c4051ac",
                 "type": "leaf",
                 "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "收件箱.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "收件箱 的大纲"
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
                 }
               },
               {
-                "id": "fb55a6880e1c2be4",
+                "id": "9a562f586893e51e",
                 "type": "leaf",
                 "state": {
-                  "type": "calendar",
+                  "type": "reminder-list",
                   "state": {},
-                  "icon": "calendar-with-checkmark",
-                  "title": "Calendar"
+                  "icon": "clock",
+                  "title": "Reminders"
+                }
+              },
+              {
+                "id": "e6cac63ca6fae395",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 5
           },
           {
-            "id": "222016afac49d5a2",
+            "id": "9d1f52db36656bc8",
             "type": "tabs",
+            "dimension": 29.346314325452017,
             "children": [
               {
-                "id": "2b6ad01b97f0a99b",
+                "id": "e3413d6e6f0252ae",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "收件箱.md",
+                    "file": "500附件/workspace/头像展示.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "收件箱"
+                  "title": "头像展示"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 300
+        "width": 270.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -235,13 +278,308 @@
           "templates:插入模板": false,
           "command-palette:打开命令面板": false,
           "workspaces:管理工作区布局": false,
+          "bases:新建数据库": false,
           "obsidian-kanban:创建新看板": false,
-          "pomodoro-timer:Toggle timer panel": false
+          "pomodoro-timer:Toggle timer panel": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false
         }
       },
-      "active": "7f6e4aa4492bba08",
-      "mtime": "2025-07-23T15:38:48+08:00"
+      "active": "0d19b6593f19a5e8",
+      "mtime": "2026-01-31T19:48:16+08:00"
+    },
+    "card+avatar": {
+      "main": {
+        "id": "21c5723ccc730253",
+        "type": "split",
+        "children": [
+          {
+            "id": "3531e91f990c1294",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0d19b6593f19a5e8",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100艾力克斯/Notes/青箭の第一阶段任务看板.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "青箭の第一阶段任务看板"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b20e849d3d1c5b1",
+        "type": "split",
+        "children": [
+          {
+            "id": "f98763845d21303a",
+            "type": "tabs",
+            "dimension": 48.95688456189152,
+            "children": [
+              {
+                "id": "40efe8875aa0439c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "d3e6cb955a8798b5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "7763ece6adf5c818",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3a4a9597a8aee9ea",
+            "type": "tabs",
+            "dimension": 51.04311543810849,
+            "children": [
+              {
+                "id": "44d2e5b17ed8c61b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "500附件/workspace/随手记.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "随手记"
+                }
+              },
+              {
+                "id": "33e18a5bf1f88716",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "500附件/workspace/学习看板.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "table",
+                      "list-collapse": [
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "学习看板"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 217.5
+      },
+      "right": {
+        "id": "040c44037a362fcf",
+        "type": "split",
+        "children": [
+          {
+            "id": "98d5cd3fa25f4d54",
+            "type": "tabs",
+            "dimension": 70.65368567454799,
+            "children": [
+              {
+                "id": "a01c9f39abf66b55",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Programming Languages/Python/JackFrued/Python_Day_1-20.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Python_Day_1-20 的反向链接列表"
+                }
+              },
+              {
+                "id": "789b6d8bbc385629",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "006 Courses/01 ComputerScience/0 计算机组成原理/湖科大网课Notes/主存各类线之间的数量计算.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "主存各类线之间的数量计算 的出链列表"
+                }
+              },
+              {
+                "id": "421ca7e8b48ffedd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "100艾力克斯/Notes/青箭の第一阶段任务看板.md",
+                    "followCursor": true,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "青箭の第一阶段任务看板 的大纲"
+                }
+              },
+              {
+                "id": "8201b850745accc2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "833255fa4c4051ac",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "9a562f586893e51e",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Reminders"
+                }
+              },
+              {
+                "id": "e6cac63ca6fae395",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "9d1f52db36656bc8",
+            "type": "tabs",
+            "dimension": 29.346314325452017,
+            "children": [
+              {
+                "id": "e3413d6e6f0252ae",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "500附件/workspace/头像展示.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "头像展示"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 270.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "bases:新建数据库": false,
+          "obsidian-kanban:创建新看板": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false
+        }
+      },
+      "active": "0d19b6593f19a5e8",
+      "mtime": "2026-01-31T19:48:42+08:00"
     }
   },
-  "active": "Quick Access + 收件箱"
+  "active": "card+avatar"
 }

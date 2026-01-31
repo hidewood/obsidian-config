@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "003 ATTACH/01 imgs/2026-2027春季学期",
+  "attachmentFolderPath": "500附件/imgs/2026-2027春",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
@@ -10,5 +10,7 @@
   },
   "promptDelete": false,
   "spellcheck": false,
-  "useTab": true
+  "useTab": true,
+  "showLineNumber": false,
+  "readableLineLength": true
 }

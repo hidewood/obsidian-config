@@ -1,6 +1,19 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "100艾力克斯/Notes/青箭の第一阶段任务看板.md": [
+      {
+        "title": "- [ ] [P1320 压缩技术（续集版） - 洛谷](https://www.luogu.com.cn/problem/P1320)",
+        "time": "2026-01-31 20:00",
+        "rowNumber": 37
+      },
+      {
+        "title": "[P 1055 [NOIP 2008 普及组] ISBN 号码 - 洛谷](https://www.luogu.com.cn/problem/P1055)",
+        "time": "2026-01-31 20:00",
+        "rowNumber": 39
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
