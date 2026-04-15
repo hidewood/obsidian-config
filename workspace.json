@@ -8,15 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d19b6593f19a5e8",
+            "id": "95b1c26079463cf7",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "100艾力克斯/Notes/青箭の第一阶段任务看板.md",
+                "file": "100艾力克斯/Notes/青箭の阶段任务看板.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
                     false,
                     false,
                     false,
@@ -34,25 +35,151 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "青箭の第一阶段任务看板"
+              "title": "青箭の阶段任务看板"
             }
           },
           {
-            "id": "f379d986e1038f2c",
+            "id": "8ea869c71c6c26b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100艾力克斯/Notes/Git日常使用.md",
+                "file": "100艾力克斯/Notes/并行计算与GPU编程笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git日常使用"
+              "title": "并行计算与GPU编程笔记"
+            }
+          },
+          {
+            "id": "70c2d2b2fcd3cb97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100艾力克斯/Notes/大三下日常.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大三下日常"
+            }
+          },
+          {
+            "id": "b05ad2979a5430cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100艾力克斯/Notes/C 语言.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C 语言"
+            }
+          },
+          {
+            "id": "13481856d0e7722d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100艾力克斯/Notes/BUPT大三下主页.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BUPT大三下主页"
+            }
+          },
+          {
+            "id": "25d5860690576d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100艾力克斯/Notes/Linux学习资料收集.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux学习资料收集"
+            }
+          },
+          {
+            "id": "4118d4ec9c721656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100艾力克斯/Notes/Linux主页.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux主页"
+            }
+          },
+          {
+            "id": "145504aece498259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100艾力克斯/Notes/并行计算与GPU编程主页.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "并行计算与GPU编程主页"
+            }
+          },
+          {
+            "id": "a27212b98c2f1428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100艾力克斯/Notes/国立清华大学平行程式周志远课堂笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "国立清华大学平行程式周志远课堂笔记"
+            }
+          },
+          {
+            "id": "120f35ef5a696567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100艾力克斯/Notes/StatQuest课程笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "StatQuest课程笔记"
+            }
+          },
+          {
+            "id": "302283d4f3378b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100艾力克斯/Notes/青箭の每日总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "青箭の每日总结"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +191,7 @@
       {
         "id": "f98763845d21303a",
         "type": "tabs",
-        "dimension": 48.95688456189152,
+        "dimension": 33.629441624365484,
         "children": [
           {
             "id": "40efe8875aa0439c",
@@ -109,9 +236,9 @@
         ]
       },
       {
-        "id": "3a4a9597a8aee9ea",
+        "id": "7be6cc613a6a2ad1",
         "type": "tabs",
-        "dimension": 51.04311543810849,
+        "dimension": 33.756345177664976,
         "children": [
           {
             "id": "44d2e5b17ed8c61b",
@@ -126,14 +253,21 @@
               "icon": "lucide-file",
               "title": "随手记"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "dceab063ae9d0d67",
+        "type": "tabs",
+        "dimension": 32.61421319796954,
+        "children": [
           {
             "id": "33e18a5bf1f88716",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "500附件/workspace/学习看板.md",
+                "file": "500附件/workspace/总看板.md",
                 "kanbanViewState": {
                   "kanban-plugin": "table",
                   "list-collapse": [
@@ -142,11 +276,10 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "学习看板"
+              "title": "总看板"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,13 +333,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100艾力克斯/Notes/Git日常使用.md",
-                "followCursor": true,
+                "file": "100艾力克斯/Notes/并行计算与GPU编程hzb笔记.md",
+                "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git日常使用 的大纲"
+              "title": "并行计算与GPU编程hzb笔记 的大纲"
             }
           },
           {
@@ -253,9 +386,19 @@
               "icon": "timer",
               "title": "Timer"
             }
+          },
+          {
+            "id": "e82c693bd403e771",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw 侧边面板"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "9d1f52db36656bc8",
@@ -265,6 +408,7 @@
           {
             "id": "e3413d6e6f0252ae",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -272,6 +416,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "头像展示"
             }
@@ -280,7 +425,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,57 +443,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f379d986e1038f2c",
+  "active": "70c2d2b2fcd3cb97",
   "lastOpenFiles": [
-    "100艾力克斯/Notes/青箭の第一阶段任务看板.md",
-    "500附件/workspace/学习看板.md",
+    "100艾力克斯/Notes/C 语言.md",
+    "100艾力克斯/Notes/大三下日常.md",
+    "100艾力克斯/Notes/BUPT大三下主页.md",
+    "100艾力克斯/Notes/Linux学习资料收集.md",
+    "100艾力克斯/Notes/青箭の第一阶段学习规划.md",
+    "100艾力克斯/Notes/并行计算与GPU编程笔记.md",
+    "100艾力克斯/Notes/青箭の阶段任务看板.md",
+    "500附件/workspace/总看板.md",
+    "100艾力克斯/Notes/StatQuest课程笔记.md",
+    "100艾力克斯/Notes/青箭の每日总结.md",
+    "100艾力克斯/Notes/国立清华大学平行程式周志远课堂笔记.md",
+    "100艾力克斯/Notes/并行计算与GPU编程主页.md",
+    "100艾力克斯/Notes/Linux主页.md",
     "500附件/workspace/随手记.md",
     "500附件/workspace/头像展示.md",
-    "100艾力克斯/Notes/C-projects.md",
-    "500附件/workspace",
-    "100艾力克斯/Notes/学在 BUPT✉️.md",
-    "100艾力克斯/Notes/考研🐙.md",
-    "100艾力克斯/Notes/考研经验贴收集.md",
-    "100艾力克斯/Notes/如何打破考研信息差.md",
-    "500附件/records/2026_1-2026_2 RECORD.md",
-    "100艾力克斯/Notes/科研🧪.md",
-    "100艾力克斯/Notes/方法🤔.md",
+    "100艾力克斯/Notes/2026大英赛变化.md",
+    "100艾力克斯/Notes/大英赛备考策略.md",
+    "100艾力克斯/Notes/大英赛备考笔记.md",
+    "100艾力克斯/Notes/词汇与语法题-固定搭配收集.md",
+    "100艾力克斯/Notes/词汇与语法题-语法知识收集.md",
+    "100艾力克斯/Notes/大英赛作文积累.md",
+    "100艾力克斯/Notes/大英赛改错题.md",
+    "500附件/imgs/2026-2027春/大英赛--4.png",
+    "100艾力克斯/Notes/百度网盘小程序提取链接.md",
     "100艾力克斯/Notes/日常工具统计.md",
-    "100艾力克斯/Notes/学在BUPT-学期整理.md",
-    "100艾力克斯/学习小屋.md",
-    "100艾力克斯/Notes/娱乐😊.md",
-    "100艾力克斯/Notes/技术杂谈.md",
-    "100艾力克斯/Notes/竞赛🥇.md",
-    "100艾力克斯/Notes/工具⚒️.md",
-    "100艾力克斯/Notes/学习规划.md",
-    "100艾力克斯/学习记录.md",
-    "100艾力克斯/Notes/语言📕.md",
-    "100艾力克斯/Notes/工作🐟.md",
-    "100艾力克斯/Notes/科研经验.md",
-    "100艾力克斯/Notes/关于心得.md",
-    "100艾力克斯/Notes/进化电波.md",
-    "500附件/imgs/DouBan/寻羊冒险记_cover.jpg",
-    "500附件/imgs/DouBan/挪威的森林_cover.jpg",
-    "200三味书屋/BOOKS/03 平常阅读/小说阅读/村上春树/挪威的森林 = ノルウェイの森 ([日] 村上春树 著  林少华 译) (Z-Library).epub",
-    "100斯达迪小屋/学习小屋1",
-    "500附件/imgs/DouBan/红楼梦_cover.jpg",
-    "500附件/imgs/DouBan/海边的卡夫卡_cover.jpg",
-    "500附件/imgs/DouBan/哈利·波特_cover.jpg",
-    "500附件/imgs/DouBan",
-    "500附件/imgs/DouBan/追风筝的人_cover.jpg",
-    "500附件/imgs/DouBan/雪国_cover.jpg",
-    "500附件/imgs/DouBan/红星照耀中国_cover.jpg",
-    "500附件/imgs/DouBan/兄弟_cover.jpg",
-    "500附件/imgs/DouBan/活着_cover.jpg",
-    "500附件/templates/Douban",
-    "200三味书屋/书签/book",
-    "200三味书屋/书签",
-    "附件/imgs/DouBan",
-    "附件/imgs",
-    "附件",
+    "100艾力克斯/Notes/Visio网页平替.md",
+    "500附件/imgs/2026-2027春/工具-.png",
+    "100艾力克斯/Notes/单词收集.md",
+    "500附件/imgs/2026-2027春/平行计算--35.png",
+    "500附件/imgs/2026-2027春/平行计算--34.png",
+    "500附件/imgs/2026-2027春/平行计算--33.png",
+    "500附件/imgs/2026-2027春/平行计算--32.png",
+    "500附件/imgs/2026-2027春/平行计算--31.png",
+    "500附件/imgs/2026-2027春/平行计算--30.png",
+    "500附件/imgs/2026-2027春/平行计算--29.png",
+    "500附件/imgs/2026-2027春/平行计算--28.png",
+    "200三味书屋/BOOKS/01 计算机科学与技术/机器学习/图解机器学习 (（日）杉山将著) (Z-Library).pdf",
+    "200三味书屋/BOOKS/01 计算机科学与技术/计算机系统/深入理解计算机系统(第3版).pdf",
+    "200三味书屋/BOOKS/01 计算机科学与技术/计算机系统/深入理解计算机系统（原书第三版）-压缩版.pdf",
+    "200三味书屋/BOOKS/01 计算机科学与技术/操作系统/深入理解计算机系统.pdf",
+    "200三味书屋/BOOKS/01 计算机科学与技术/编程能力提升/编码：隐匿在计算机软硬件背后的语言.pdf",
+    "200三味书屋/BOOKS/01 计算机科学与技术/机器学习/机器学习周志华 (1).pdf",
+    "200三味书屋/BOOKS/01 计算机科学与技术/机器学习/机器学习线性代数基础 Python语言描述 (张雨萌编著) (Z-Library).pdf",
+    "未命名.canvas",
+    "200三味书屋/BOOKS/03 平常阅读/小说阅读/村上春树/且听风吟 = 風の歌を聴け ([日] 村上春树 著  林少华 译) (Z-Library).epub",
+    "500附件/imgs/2026-2027春/未确认 399617.crdownload",
+    "003 ATTACHMENTS/04 Codes/SELF_LEARNING/BUPT Python/c-projects",
     "001 STUDY/02 竞赛/未命名.canvas",
     "SideBar/Untitled.canvas"
   ]

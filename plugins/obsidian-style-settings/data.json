@@ -90,12 +90,15 @@
   "shimmering-focus@@hide-inline-title-when-more-than-one-tab": false,
   "shimmering-focus@@hide-vault-switcher-and-settings": false,
   "shimmering-focus@@show-sidebar-header-buttons": false,
-  "blue-topaz-theme@@color-scheme-options": "null",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
   "blue-topaz-theme@@background-settings-workplace-background-image": false,
   "blue-topaz-theme@@table-style-options": "table-style-one",
   "blue-topaz-theme@@table-format-options": "default-table",
   "blue-topaz-theme@@show-border-table": false,
   "blue-topaz-theme@@full-width-table": false,
   "colorful-table-styles@@table-type-class": "table-type-three-line",
-  "colorful-table-styles@@table-header-color-class": "table-header-color-indigo"
+  "colorful-table-styles@@table-header-color-class": "table-header-color-indigo",
+  "underwater-theme@@underwater-colors-light": "nord-bright",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha"
 }
